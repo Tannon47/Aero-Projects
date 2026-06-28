@@ -13,7 +13,7 @@ Designed a tapered aircraft wing section using two different NACA 4-digit aerofo
 - Wall thickness: 1.5 mm (shelled)
 - Material: Aluminum 2024-T3 (standard aerospace skin alloy)
 
-![Wing isometric view](naca-wing-isometric.jpg)
+![Wing isometric view](NACA-0012-and-NACA-2412-wing-design.jpg)
 
 ## Results
 | Property | Value |
