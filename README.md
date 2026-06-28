@@ -10,7 +10,7 @@ Construction method: Solid Loft between root and tip profile sketches
 Wall thickness: 1.5 mm (shelled)
 Material: Aluminum 2024-T3 (standard aerospace skin alloy)
 
-![Wing isometric view](NACA-0012 and NACA-2412 wing design.jpg)
+![Wing isometric view](NACA-0012-and-NACA-2412-wing-design.jpg)
 
 Results:
 Mass : 94.34 g, Volume : 3.95 cm³, Surface area : 4531.34 cm², Density : 2.779 g/cm³
