@@ -30,7 +30,7 @@ Aerodynamic and simulation analysis projects.
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| [ANSYS Intro Course Completion](Ansys%20Course%20Completion%20-%20Intro%20...pdf) | ANSYS Inc. | ✅ Completed |
+| [ANSYS Intro Course Completion](certificate/Ansys%20Course%20Completion%20-%20Intro%20to%20Ansys%20Fluent.pdf) | ANSYS Inc. | ✅ Completed |
 | [MATLAB Onramp](MATLAB%20Certificate.pdf) | MathWorks | ✅ Completed |
 
 ---
