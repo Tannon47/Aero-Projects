@@ -123,9 +123,15 @@ NACA 2412 shows clearly higher lift than NACA 0012 at the same angle of attack �
 
 ## Post-processing — α = 5°
 
-![Pressure coefficient contours](naca0012/aoa_5/cp_contours.jpg)
-![Streamlines and wingtip vortex](naca0012/aoa_5/streamlines_vortex.jpg)
-![NACA 0012 vs NACA 2412 comparison](naca0012/aoa_5/comparison.jpg)
+Wingtip vortex, visualized as velocity vectors colored by vorticity magnitude on a spanwise plane through the tip:
+
+#### NACA-0012
+![NACA 0012 wingtip vortex](naca0012/AoA_5/naca0012_vorticity.jpg)
+
+#### NACA-2412
+![NACA 2412 wingtip vortex](naca2412/AoA_5/naca2412_vorticity.jpg)
+
+The NACA 2412 vortex core is visibly stronger and more concentrated than the NACA 0012 core, consistent with its higher Cl at the same angle of attack — vortex strength scales with circulation/lift.
 
 ## Notes on convergence
 
