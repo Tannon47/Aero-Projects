@@ -62,7 +62,7 @@ Skewness histograms (Wed6 = inflation prisms, Tet4 = bulk tetrahedra):
 
 Boundary conditions:
 
-![NACA 0012 boundary conditions](naca0012/AoA_5/naca0012_bc.jpg)
+![NACA 0012 boundary conditions](naca0012/AoA_5/naca0012_bc.jpg).
 ![NACA 2412 boundary conditions](naca2412/AoA_5/naca2412_bc.jpg)
 
 ## Convergence — α = 5°
