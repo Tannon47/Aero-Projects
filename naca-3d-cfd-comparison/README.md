@@ -55,7 +55,7 @@ Leading-edge close-up showing inflation layers:
 
 Skewness histograms (Wed6 = inflation prisms, Tet4 = bulk tetrahedra):
 
-![NACA 0012 skewness](mesh/naca0012_Skewness_histogram.jpg)
+![NACA 0012 skewness](mesh/naca0012_skewness_histogram.jpg)
 ![NACA 2412 skewness](mesh/naca2412_skewness_histograph.jpg)
 
 ## Fluent setup — α = 5°
