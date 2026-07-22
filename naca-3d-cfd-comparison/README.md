@@ -24,7 +24,7 @@ Same planform, two sections — NACA 0012 (symmetric) and NACA 2412 (2% camber) 
 
 1. **2D baseline (XFLR5):** Polars generated at Re = 1,000,000 for both airfoils, used to derive lift-curve slope and zero-lift angle of attack.
 2. **Finite-wing correction:** Prandtl lifting-line theory used to predict the 3D lift slope from the 2D slope and aspect ratio, giving a theoretical target Cl at 5° AoA before running any CFD.
-3. **3D CFD (Ansys Fluent):** Half-span wing in a large farfield domain, structured inflation layers on the wing surface (y+ tuned for wall-function treatment with SST k-ω), tetrahedral core mesh, mesh quality checked via skewness histograms.
+3. **3D CFD (Ansys Fluent):** Half-span wing in a large farfield domain, structured inflation layers on the wing surface (y+ tuned for wall-function treatment with SST k-ω), tetrahedral core mesh, mesh quality checked via skewness histograms. Here the freestream velocity used was 60 m/s to counter fluents 500k Reynolds number.
 4. **Validation:** Converged Cl/Cd compared against the theoretical target from step 2.
 
 ## Repository structure
