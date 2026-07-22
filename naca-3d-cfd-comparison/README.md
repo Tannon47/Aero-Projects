@@ -37,14 +37,8 @@ naca-3d-cfd-comparison/
 ├── xflr5-data/                (shared)
 ├── naca0012/
 │   └── aoa_5/
-│       ├── fluent-setup/
-│       ├── results/
-│       └── postprocessing/
 └── naca2412/
     └── aoa_5/
-        ├── fluent-setup/
-        ├── results/
-        └── postprocessing/
 ```
 
 ## Geometry and domain
@@ -68,30 +62,30 @@ Skewness histograms (Wed6 = inflation prisms, Tet4 = bulk tetrahedra):
 
 Boundary conditions:
 
-![NACA 0012 boundary conditions](naca0012/aoa_5/fluent-setup/naca0012_bc.jpg)
-![NACA 2412 boundary conditions](naca2412/aoa_5/fluent-setup/naca2412_bc.jpg)
+![NACA 0012 boundary conditions](naca0012/aoa_5/naca0012_bc.jpg)
+![NACA 2412 boundary conditions](naca2412/aoa_5/naca2412_bc.jpg)
 
 ## Convergence — α = 5°
 
 Residuals:
 
-![NACA 0012 residuals](naca0012/aoa_5/results/naca0012_residual.jpg)
-![NACA 2412 residuals](naca2412/aoa_5/results/naca2412_residual.jpg)
+![NACA 0012 residuals](naca0012/aoa_5/naca0012_residual.jpg)
+![NACA 2412 residuals](naca2412/aoa_5/naca2412_residual.jpg)
 
 Cl monitor:
 
-![NACA 0012 Cl monitor](naca0012/aoa_5/results/naca0012_cl_plot.jpg)
-![NACA 2412 Cl monitor](naca2412/aoa_5/results/naca2412_cl.jpg)
+![NACA 0012 Cl monitor](naca0012/aoa_5/naca0012_cl_plot.jpg)
+![NACA 2412 Cl monitor](naca2412/aoa_5/naca2412_cl.jpg)
 
 Cd monitor:
 
-![NACA 0012 Cd monitor](naca0012/aoa_5/results/naca0012_cd_plot.jpg)
-![NACA 2412 Cd monitor](naca2412/aoa_5/results/naca2412_cd.jpg)
+![NACA 0012 Cd monitor](naca0012/aoa_5/naca0012_cd_plot.jpg)
+![NACA 2412 Cd monitor](naca2412/aoa_5/naca2412_cd.jpg)
 
 Wall y+ on the wing surface:
 
-![NACA 0012 wall y+](naca0012/aoa_5/results/naca0012_yplus_contour.jpg)
-![NACA 2412 wall y+](naca2412/aoa_5/results/naca2412_yplus.jpg)
+![NACA 0012 wall y+](naca0012/aoa_5/naca0012_yplus_contour.jpg)
+![NACA 2412 wall y+](naca2412/aoa_5/naca2412_yplus.jpg)
 
 ## Results (α = 5°, V = 60 m/s)
 
@@ -104,9 +98,9 @@ NACA 2412 shows clearly higher lift than NACA 0012 at the same angle of attack �
 
 ## Post-processing — α = 5°
 
-![Pressure coefficient contours](naca0012/aoa_5/postprocessing/cp_contours.jpg)
-![Streamlines and wingtip vortex](naca0012/aoa_5/postprocessing/streamlines_vortex.jpg)
-![NACA 0012 vs NACA 2412 comparison](naca0012/aoa_5/postprocessing/comparison.jpg)
+![Pressure coefficient contours](naca0012/aoa_5/cp_contours.jpg)
+![Streamlines and wingtip vortex](naca0012/aoa_5/streamlines_vortex.jpg)
+![NACA 0012 vs NACA 2412 comparison](naca0012/aoa_5/comparison.jpg)
 
 ## Notes on convergence
 
