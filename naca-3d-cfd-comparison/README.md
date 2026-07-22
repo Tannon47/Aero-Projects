@@ -54,16 +54,18 @@ naca-3d-cfd-comparison/
 
 Leading-edge close-up showing inflation layers:
 
-NACA-0012
+#### NACA-0012
 ![NACA 0012 leading edge](mesh/naca0012_mesh.jpg)
-NACA-2412
+
+#### NACA-2412
 ![NACA 2412 leading edge](mesh/naca2412_mesh.jpg)
 
 Skewness histograms (Wed6 = inflation prisms, Tet4 = bulk tetrahedra):
 
-NACA-0012
+#### NACA-0012
 ![NACA 0012 skewness](mesh/naca0012_skewness_histogram.jpg)
-NACA-2412
+
+#### NACA-2412
 ![NACA 2412 skewness](mesh/naca2412_skewness_histograph.jpg)
 
 ## Fluent setup — α = 5°
