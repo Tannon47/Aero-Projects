@@ -43,48 +43,64 @@ naca-3d-cfd-comparison/
 
 ## Geometry and domain
 
+NACA-0012
 ![NACA 0012 domain](geometry/naca0012_design.jpg)
+NACA-2412
 ![NACA 2412 domain](geometry/naca2412_design.jpg)
 
 ## Mesh
 
 Leading-edge close-up showing inflation layers:
 
+NACA-0012
 ![NACA 0012 leading edge](mesh/naca0012_mesh.jpg)
+NACA-2412
 ![NACA 2412 leading edge](mesh/naca2412_mesh.jpg)
 
 Skewness histograms (Wed6 = inflation prisms, Tet4 = bulk tetrahedra):
 
+NACA-0012
 ![NACA 0012 skewness](mesh/naca0012_skewness_histogram.jpg)
+NACA-2412
 ![NACA 2412 skewness](mesh/naca2412_skewness_histograph.jpg)
 
 ## Fluent setup — α = 5°
 
 Boundary conditions:
 
+NACA-0012
 ![NACA 0012 boundary conditions](naca0012/AoA_5/naca0012_bc.jpg)
+NACA-2412
 ![NACA 2412 boundary conditions](naca2412/AoA_5/naca2412_bc.jpg)
 
 ## Convergence — α = 5°
 
 Residuals:
 
+NACA-0012
 ![NACA 0012 residuals](naca0012/AoA_5/naca0012_residual.jpg)
+NACA-2412
 ![NACA 2412 residuals](naca2412/AoA_5/naca2412_residual.jpg)
 
 Cl monitor:
 
+NACA-0012
 ![NACA 0012 Cl monitor](naca0012/AoA_5/naca0012_cl_plot.jpg)
+NACA-2412
 ![NACA 2412 Cl monitor](naca2412/AoA_5/naca2412_cl.jpg)
 
 Cd monitor:
 
+NACA-0012
 ![NACA 0012 Cd monitor](naca0012/AoA_5/naca0012_cd_plot.jpg)
+NACA-2412
 ![NACA 2412 Cd monitor](naca2412/AoA_5/naca2412_cd.jpg)
 
 Wall y+ on the wing surface:
 
+NACA-0012
 ![NACA 0012 wall y+](naca0012/AoA_5/naca0012_yplus_contour.jpg)
+NACA-2412
 ![NACA 2412 wall y+](naca2412/AoA_5/naca2412_yplus.jpg)
 
 ## Results (α = 5°, V = 60 m/s)
