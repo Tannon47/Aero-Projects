@@ -22,8 +22,8 @@ Aerodynamic and simulation analysis projects.
 
 | Project | Tool | Description |
 |---|---|---|
-| [NACA 0012 vs NACA 2412 Aerofoil Comparison](analysis/xfoil-aerofoil-comparison/README.md) | XFLR5 v6.62 + Python | Cl/Cd polar comparison at Re = 1,000,000. Covers lift curve slope, zero-lift angle, stall characteristics, and drag trade-offs |
-| [3D CFD: NACA 0012 vs NACA 2412 Finite Wing](naca-3d-cfd-comparison/README.md) | ANSYS Fluent (Student) + XFLR5 | 3D RANS (k-ω SST) comparison of a symmetric vs cambered finite wing (250mm chord, 600mm span, AR = 2.4) at α = 5°, validated against 2D XFLR5 polars and finite-wing (lifting-line) theory |
+| [NACA 0012 vs NACA 2412 Aerofoil Comparison](analysis/xfoil-aerofoil-comparison/README.md) | XFLR5 v6.62 + Python | 2D Cl/Cd polar comparison at Re = 1,000,000 |
+| [3D CFD Wing Analysis](analysis/ansys-3d-cfd/README.md) | ANSYS Fluent (Student) | Full AoA sweep (-4° to 12°) on half-span NACA 0012 and NACA 2412 wings, validated against 2D XFLR5 polars and lifting-line theory. Includes wingtip vortex visualization |
 
 ---
 
@@ -31,19 +31,21 @@ Aerodynamic and simulation analysis projects.
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| [ANSYS Intro Course Completion](certificate/Ansys%20Course%20Completion%20-%20Intro%20to%20Ansys%20Fluent.pdf) | ANSYS Inc. | ✅ Completed |
+| [ANSYS Intro Course Completion](Ansys%20Course%20Completion.pdf) | ANSYS Inc. | ✅ Completed |
 | [MATLAB Onramp](MATLAB%20Certificate.pdf) | MathWorks | ✅ Completed |
+| The Joy of Computing using Python | IIT Ropar · NPTEL | 🔄 In progress |
+| Engineering Graphics and Design | IIT Roorkee · NPTEL | 🔄 In progress |
 
 ---
 
 ## Tools
 
-`Python` `Fusion 360` `XFLR5` `ANSYS Fluent` `MATLAB`
+`Python` `NumPy` `Matplotlib` `Fusion 360` `XFLR5` `ANSYS Fluent` `MATLAB`
 
 ---
 
 ## About
 
-**Tanish** · 1st Year BTech Mechanical Engineering · MIT Manipal, India  
+**Tanish** · Mechanical Engineering Student · MIT Manipal, India  
 Target: MTech Aerospace Engineering · Career goal: Aerodynamics Engineer  
 Interests: CFD, aerofoil design, aircraft structural analysis
