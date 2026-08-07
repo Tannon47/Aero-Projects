@@ -122,7 +122,7 @@ Residuals:
 ![NACA 0012 residuals](naca0012/AoA_5/naca0012_residual.jpg)
 
 #### NACA-2412
-![NACA 2412 residuals](naca2412/AoA_5/naca2412_cl.jpg)
+![NACA 2412 residuals](naca2412/AoA_5/naca2412_residual.jpg)
 
 Cl monitor:
 
