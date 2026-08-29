@@ -33,8 +33,7 @@ Aerodynamic and simulation analysis projects.
 |---|---|---|
 | [ANSYS Intro Course Completion](Ansys%20Course%20Completion.pdf) | ANSYS Inc. | ✅ Completed |
 | [MATLAB Onramp](MATLAB%20Certificate.pdf) | MathWorks | ✅ Completed |
-| The Joy of Computing using Python | IIT Ropar · NPTEL | 🔄 In progress |
-| Engineering Graphics and Design | IIT Roorkee · NPTEL | 🔄 In progress |
+| [Fundamentals of Remote Sensing].(NASA%20Applied%20Remote%20Sensing%20Training.pdf) | NASA ARSET | ✅ Completed |
 
 ---
 
