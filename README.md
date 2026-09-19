@@ -34,6 +34,7 @@ Aerodynamic and simulation analysis projects.
 | [ANSYS Intro Course Completion](Ansys%20Course%20Completion.pdf) | ANSYS Inc. | ✅ Completed |
 | [MATLAB Onramp](MATLAB%20Certificate.pdf) | MathWorks | ✅ Completed |
 | [Fundamentals of Remote Sensing](https://arset.unhosting.site/admin/tool/certificate/index.php?code=9540723988TP) | NASA ARSET | ✅ Completed |
+| [Ansys Flow over an Airfoil Course Completion](Ansys%20Course%20Completion_Flow%20over%20an%20Airfoil.pdf)
 
 ---
 
