@@ -34,8 +34,10 @@ Aerodynamic and simulation analysis projects.
 | [ANSYS Intro Course Completion](Ansys%20Course%20Completion.pdf) | ANSYS Inc. | ✅ Completed |
 | [MATLAB Onramp](MATLAB%20Certificate.pdf) | MathWorks | ✅ Completed |
 | [Fundamentals of Remote Sensing](https://arset.unhosting.site/admin/tool/certificate/index.php?code=9540723988TP) | NASA ARSET | ✅ Completed |
-| [Ansys Flow over an Airfoil Course Completion](Ansys%20Course%20Completion_Flow%20over%20an%20Airfoil.pdf)
-
+| [ANSYS Flow over an Airfoil Course Completion](Ansys%20Course%20Completion%20_%20Flow%20over%20an%20Airfoil.pdf) | ANSYS Inc. | ✅ Completed |
+| [ANSYS Stress Analysis in Solid Mechanics Course Completion](Ansys Course Completion _ Stress Analysis in Solid Mechanics.pdf) | ANSYS Inc. | ✅ Completed |
+| [ANSYS Getting Started with Ansys Fluent - Basics Track Completion](Ansys Course Completion _ Getting Started with Ansys Mechanical) | ANSYS Inc. | ✅ Completed |
+| [Ansys Getting Started with Ansys Mechanical Course Completion](Ansys Course Completion _ Getting Started with Ansys Mechanical) | ANSYS Inc. | ✅ Completed |
 ---
 
 ## Tools
